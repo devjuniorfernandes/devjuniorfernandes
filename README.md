@@ -13,6 +13,7 @@
   <img align="center" alt="Junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Junior-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Junior-NextJS" height="30" width="40" src="https://www.svgrepo.com/show/342062/next-js.svg">
+  <img align="center" alt="Junior-Tailwindcss" height="30" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
   <img align="center" alt="Junior-Flutter" height="30" width="40" src="https://www.svgrepo.com/show/373604/flutter.svg">
   <img align="center" alt="Junior-Php" height="30" width="40" src="https://www.svgrepo.com/show/303208/php-1-logo.svg">
   <img align="center" alt="Junior-Laravel" height="30" width="40" src="https://www.svgrepo.com/show/353985/laravel.svg">
