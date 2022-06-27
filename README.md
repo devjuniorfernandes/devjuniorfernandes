@@ -1,6 +1,7 @@
 ### Olá, Eu sou Júnior Fernandes 👋
 
-**Sou um Desenvolvedor Full Stack** ✨ _CEO_CrieAngola_ ✨ pode explorar meu Repositório.
+**Sou um Desenvolvedor Full Stack** ✨ _Founder_CrieAngola_ ✨ pode explorar meu Repositório.A
+Atualmente trabalho como **Product Designer** na Agência _Red Thinking_
 
 <div align="center">
   <a href="https://github.com/devjuniorfernandes">
